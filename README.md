@@ -38,6 +38,6 @@ Outputs:
 
 Author: Juan Manuel Fonseca-Solís
 San José, Costa Rica
-Email: juanma2268@gmail.com
+Linkedin: https://cr.linkedin.com/in/juan-m-fonseca-solis
 Oct 2016; Last revision: 26-Oct-2016
 
